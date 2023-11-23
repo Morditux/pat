@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/bmizerany/pat"
+	"github.com/Morditux/pat"
 )
 
 // hello world, the web server
